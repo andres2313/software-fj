@@ -1,17 +1,17 @@
-2026-11-20 21:51:16,812 | INFO     | Inicio de simulación 2026-11-20
-2026-11-20 21:51:16,813 | INFO     | Cliente registrado: Cliente #1: Ana Maria Rojas | Doc: 1090123456 | ana@correo.com
-2026-11-20 21:51:16,813 | ERROR    | Registro de cliente fallido: Correo inválido: 'luis#correo'
-2026-11-20 21:51:16,813 | ERROR    | Registro de cliente fallido: Cliente.__init__() missing 1 required positional argument: 'telefono'
-2026-11-20 21:51:16,813 | INFO     | Cliente registrado: Cliente #2: Juan Gomez | Doc: 80123456 | juan@correo.com
-2026-11-20 21:51:16,813 | INFO     | Servicio creado: Sala 'Sala Innovación' (capacidad 25) - $50,000/h
-2026-11-20 21:51:16,813 | ERROR    | Creación de servicio fallida (AlquilerEquipo): La tarifa por hora debe ser mayor a 0.
-2026-11-20 21:51:16,813 | INFO     | Servicio creado: Equipo 'Video Beam' (Proyector con seguro) - $20,000/h
-2026-11-20 21:51:16,813 | INFO     | Servicio creado: Asesoría 'Asesoría Python' (Programación, senior) - $80,000/h
-2026-11-20 21:51:16,813 | INFO     | Reserva #1 confirmada.
-2026-11-20 21:51:16,813 | INFO     | Reserva #1 procesada. Total: $176,715.00
-2026-11-20 21:51:16,813 | INFO     | Intento de procesamiento de reserva #1 finalizado (estado: PROCESADA).
-2026-11-20 21:51:16,813 | ERROR    | Reserva fallida: Duración inválida para la reserva. (causa: Una sala se reserva entre 1 y 8 horas.)
-2026-11-20 21:51:16,813 | ERROR    | Reserva fallida: El servicio 'Video Beam' no está disponible.
-2026-11-20 21:51:16,813 | INFO     | Reserva #2 cancelada.
-2026-11-20 21:51:16,813 | ERROR    | Cancelación inválida: No se puede cancelar una reserva CANCELADA.
-2026-11-20 21:51:16,813 | ERROR    | Cálculo inconsistente: Descuento e impuesto deben estar entre 0 y 1.
+2026-11-21 18:29:41,345 | INFO     | Inicio de simulación 2026-11-21
+2026-11-21 18:29:41,347 | INFO     | Cliente registrado: Cliente #1: Ana Maria Rojas | Doc: 1090123456 | ana@correo.com
+2026-11-21 18:29:41,348 | ERROR    | Registro de cliente fallido: Correo inválido: 'luis#correo'
+2026-11-21 18:29:41,349 | ERROR    | Registro de cliente fallido: Cliente.__init__() missing 1 required positional argument: 'telefono'
+2026-11-21 18:29:41,350 | INFO     | Cliente registrado: Cliente #2: Juan Gomez | Doc: 80123456 | juan@correo.com
+2026-11-21 18:29:41,351 | INFO     | Servicio creado: Sala 'Sala Innovación' (capacidad 25) - $50,000/h
+2026-11-21 18:29:41,351 | ERROR    | Creación de servicio fallida (AlquilerEquipo): La tarifa por hora debe ser mayor a 0.
+2026-11-21 18:29:41,351 | INFO     | Servicio creado: Equipo 'Video Beam' (Proyector con seguro) - $20,000/h
+2026-11-21 18:29:41,352 | INFO     | Servicio creado: Asesoría 'Asesoría Python' (Programación, senior) - $80,000/h
+2026-11-21 18:29:41,352 | INFO     | Reserva #1 confirmada.
+2026-11-21 18:29:41,352 | INFO     | Reserva #1 procesada. Total: $176,715.00
+2026-11-21 18:29:41,352 | INFO     | Intento de procesamiento de reserva #1 finalizado (estado: PROCESADA).
+2026-11-21 18:29:41,353 | ERROR    | Reserva fallida: Duración inválida para la reserva. (causa: Una sala se reserva entre 1 y 8 horas.)
+2026-11-21 18:29:41,354 | ERROR    | Reserva fallida: El servicio 'Video Beam' no está disponible.
+2026-11-21 18:29:41,354 | INFO     | Reserva #2 cancelada.
+2026-11-21 18:29:41,355 | ERROR    | Cancelación inválida: No se puede cancelar una reserva CANCELADA.
+2026-11-21 18:29:41,356 | ERROR    | Cálculo inconsistente: Descuento e impuesto deben estar entre 0 y 1.
